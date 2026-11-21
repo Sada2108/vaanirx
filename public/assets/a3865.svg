@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="397" height="45.9582" viewBox="0 0 397 45.9582" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="Weekly consultation area" d="M0.5 23.7582L66.5 11.3582L132.5 19.1082L198.5 0.508153L264.5 8.25815L330.5 17.5582L396.5 8.25815V45.4582H0.5V23.7582Z" fill="url(#paint0_linear_0_40)" stroke="black"/>
+<defs>
+<linearGradient id="paint0_linear_0_40" x1="198.5" y1="0.508153" x2="198.5" y2="45.4582" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0D9488" stop-opacity="0.18"/>
+<stop offset="1" stop-color="#0D9488" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

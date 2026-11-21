@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="shield icon" clip-path="url(#clip0_0_4)">
+<path id="Vector" d="M4 6L5.5 7.5L8 4.5M6 1L10.5 3V6C10.5 8.5 8.5 10 6 11.5C3.5 10 1.5 8.5 1.5 6V3L6 1Z" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round" stroke="#0D9488"/>
+</g>
+<defs>
+<clipPath id="clip0_0_4">
+<rect width="12" height="12" fill="white"/>
+</clipPath>
+</defs>
+</svg>
